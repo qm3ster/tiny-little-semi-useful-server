@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "tiny-little-semi-useful-server",
+  "version": "1.0.0",
+  "description": "Tiny little semi-useful server",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nemtsov/tiny-little-semi-useful-server.githttps://github.com/nemtsov/tiny-little-semi-useful-server"
+  },
+  "license": "ISC"
+}
