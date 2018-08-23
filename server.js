@@ -13,7 +13,7 @@ const server = http.createServer((req, res) =>  {
         </style>
       </head>
       <body>
-        <h1>Crafter carefully for you</h1>
+        <h1>Crafted carefully for you</h1>
       </body>
     </html>
   `);
